@@ -1,2 +1,1 @@
-# laravel-blog
-Laravel blog
+# Basic Blog
